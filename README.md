@@ -15,3 +15,5 @@
    > | | https://github.com/mahavivo/english-dictionary | |
 
 > 3. 阿尔法词典，https://github.com/kartorz/AlphaDic ，可转换第三方词典格式；李力琼 (joni lee) joni_lee@outlook.com  
+> 4. 官方标准字符集，github.com/rime-aca/character_set  
+
